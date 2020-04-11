@@ -115,7 +115,7 @@ body {
 }
 
 .name {
-  color: #000000;
+  color: magenta;
   font-family: Montserrat;
   font-size: 45px;
   font-weight: 700;
@@ -187,7 +187,6 @@ body {
   margin-bottom: 15px;
 }
 
-
 .company2-div {
   padding-top: 25px;
 }
@@ -195,5 +194,3 @@ body {
 .experience-div {
   margin-top: 50px;
 }
-
-
